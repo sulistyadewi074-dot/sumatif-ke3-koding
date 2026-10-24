@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix sumatif ke-3 koding",
+  "description": "Aplikasi Tes Sumatif Koding Kelas VI SD Negeri 3 Loloan Timur Materi Literasi dan Etika Kecerdasan Artifisial dengan 4 tahap tes, 35 butir soal, sinkronisasi Google Spreadsheet, unduh PDF dan DOCX naskah & hasil tes, serta panel guru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
